@@ -1,0 +1,7 @@
+.header {
+    background-color: grey;
+    background-image: url("images/4-uwm-hero.jpg");
+    background-position: center bottom;
+    padding-bottom: 450px;
+    background-repeat: no-repeat;
+}
